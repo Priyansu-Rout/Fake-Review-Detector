@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.40-red?style=for-the-badge&logo=streamlit&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![API Key](https://img.shields.io/badge/API%20Key-NOT%20REQUIRED-brightgreen?style=for-the-badge)
 
 **An AI-powered web app that detects fake product reviews using local transformer models and linguistic analysis.**  
