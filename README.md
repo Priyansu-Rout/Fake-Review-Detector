@@ -16,6 +16,9 @@ No API key. No internet after setup. Runs 100% on your machine.
 
 ---
 
+![photo](<Screenshot 2026-02-20 222010.png>)
+
+
 ## 🌟 Why This Project?
 
 Fake reviews cost consumers **billions of dollars** every year. Studies show that:
